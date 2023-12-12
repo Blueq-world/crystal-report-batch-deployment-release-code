@@ -6,7 +6,7 @@
 Use the .net SDK to batch upload reports and update the report login information in the Crystal Report Server.
 
 ## Usage 
-* ### Configuration in the App.config
+* ### Configuration in the CrystalReportDeploy.exe.config
 ![](Guideline%20Image/Capture10.PNG)
 
 * ### Click "CrystalReportDeploy.exe" file
